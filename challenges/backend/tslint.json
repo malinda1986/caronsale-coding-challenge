@@ -38,7 +38,7 @@
     "ordered-imports": false,
     "whitespace": false,
     "object-literal-sort-keys": false,
-    "no-console": true
+    "no-console": false
   },
   "rulesDirectory": []
 }
